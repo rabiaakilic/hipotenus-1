@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\hipotenüs1 1359\hipotenüs1 1359\bin\Debug\hipotenüs1 1359.exe.config
+C:\Users\User\source\repos\hipotenüs1 1359\hipotenüs1 1359\bin\Debug\hipotenüs1 1359.exe
+C:\Users\User\source\repos\hipotenüs1 1359\hipotenüs1 1359\bin\Debug\hipotenüs1 1359.pdb
+C:\Users\User\source\repos\hipotenüs1 1359\hipotenüs1 1359\obj\Debug\hipotenüs1 1359.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\hipotenüs1 1359\hipotenüs1 1359\obj\Debug\hipotenüs1 1359.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\hipotenüs1 1359\hipotenüs1 1359\obj\Debug\hipotenüs1_1359.lblHipotenus.resources
+C:\Users\User\source\repos\hipotenüs1 1359\hipotenüs1 1359\obj\Debug\hipotenüs1_1359.Properties.Resources.resources
+C:\Users\User\source\repos\hipotenüs1 1359\hipotenüs1 1359\obj\Debug\hipotenüs1 1359.csproj.GenerateResource.cache
+C:\Users\User\source\repos\hipotenüs1 1359\hipotenüs1 1359\obj\Debug\hipotenüs1 1359.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hipotenüs1 1359\hipotenüs1 1359\obj\Debug\hipotenüs1 1359.exe
+C:\Users\User\source\repos\hipotenüs1 1359\hipotenüs1 1359\obj\Debug\hipotenüs1 1359.pdb
